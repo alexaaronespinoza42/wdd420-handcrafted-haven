@@ -1,9 +1,7 @@
-/* src/app/globals.css */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-/* Personalización */
 body {
-  @apply bg-white text-gray-800;
+  @apply bg-gray-50 text-gray-800;
 }
